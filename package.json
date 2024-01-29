@@ -1,0 +1,21 @@
+{
+  "name": "week3-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server/server.js -w server -w client -e html,js,css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "morgan": "^1.10.0"
+  }
+}

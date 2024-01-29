@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Iron Man",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAlYgGwnT7zEGjdoI94otHnLuuPtv9hJVSAA&usqp=CAU",
+        "votes": 0
+    },
+    {
+        "id": 2,
+        "name": "Black Panther",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTUP-oIErqfgXeKeB4IOEzSOiyP3i_NqaAw&usqp=CAU",
+        "votes": 0
+    },
+    {
+        "id": 3,
+        "name": "Thanos",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxJj6hKq6pubPtI1IOM5pvK93vPhR_whZFA&usqp=CAU",
+        "votes": 0
+    }
+]
